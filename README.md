@@ -4,6 +4,7 @@
 > You can find many free platforms here: https://free-for.dev/
 
 ## Deploying On Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rappergi/Aria2c-ariang)
 
 ### Requirement
 
